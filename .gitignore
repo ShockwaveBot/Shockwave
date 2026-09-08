@@ -1,0 +1,15 @@
+token.txt
+shockwave.log
+*.pem
+*.ppk
+*.pyc
+__pycache__/
+.pytest_cache/
+.vscode/
+.claude/
+data/guildData/serverInfo/main.db
+data/guildData/serverInfo/main.db-wal
+data/guildData/serverInfo/main.db-shm
+data/guildData/backups/
+shockwave-site/
+assets/previews/
